@@ -2,4 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/slnx.sqlite
+/.vs/easyOT-Connect public/v17/DocumentLayout.json
+/.vs/easyOT-Connect public/v17/.wsuo
 *.vsidx
+/.gitignore
